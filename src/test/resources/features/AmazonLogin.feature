@@ -1,5 +1,5 @@
 
-@smoke
+@smoke2
 Feature: Amazon login functionality
 
   Scenario: user should be able to login
