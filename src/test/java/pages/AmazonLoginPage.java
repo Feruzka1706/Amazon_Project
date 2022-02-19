@@ -6,8 +6,6 @@ import org.openqa.selenium.support.PageFactory;
 import utility.BrowserUtil;
 import utility.Driver;
 
-import javax.sql.rowset.BaseRowSet;
-
 public class AmazonLoginPage {
 
     public AmazonLoginPage(){

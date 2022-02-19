@@ -3,14 +3,10 @@ package stepDefs;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
-import org.openqa.selenium.support.ui.Select;
 import pages.EbayPage;
 import utility.BrowserUtil;
 import utility.ConfigReader;
 import utility.Driver;
-
-import javax.sql.rowset.BaseRowSet;
-import java.nio.channels.SelectableChannel;
 
 public class EbayStepf {
 
